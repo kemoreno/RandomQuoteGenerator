@@ -11,7 +11,7 @@ project 1 - A Random Quote Generator
  * `quotes` array 
 ***/
 /* The Array holding the Rnadom Quotes that display on the page */
-const quoteArray = [
+const quotes = [
   {
     quote: "Just keep swimming",
     person: "Dory",
